@@ -7,16 +7,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1> رؤية فريق العمل </h1> 
+        <p> العمل ضمن فريق تطوعي بشكل متناغم لاكتساب المهارات العملية المرصودة وتنفيذ المهام المسندة بفاعلية </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         <h> أعضاء الفريق </h>
+         <p>عبدالكريم الطواشي – أنسام علي – مريم سليمان </p>
+         <p>A@fortydays.com - للتواصل </p> 
         </a>
       </header>
     </div>
